@@ -1,5 +1,4 @@
 # MyUnityProject
+cd D:\git
 git init
-   
-git commit -m "Изменение музыки"
-   
+git commit -m "Первоначальная фиксация проекта Unity"
