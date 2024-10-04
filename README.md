@@ -1,1 +1,3 @@
 # MyUnityProject
+   git init
+  
